@@ -1,13 +1,10 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About Ross
+socialImage: /media/image-2.jpg
+slug: introduction
+draft: true
 ---
+Hey there, I'm Ross Hudgins. I'm a software developer living in central Texas with my wife Colleen and dog Howie. I spend my free time playing soccer, [making music](https://www.facebook.com/LeavenworthBand/), cooking, reading, and enjoying craft beer and cocktails.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I've been a backend developer for [Viasat](https://www.viasat.com/) since 2016 and have been pursuing a Master's in Computer Science with a specialization in Machine Learning through Georgia Tech's [](https://www.viasat.com/)[OMSCS](https://www.omscs.gatech.edu/) program.
