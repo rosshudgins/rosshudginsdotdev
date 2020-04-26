@@ -3,7 +3,7 @@ template: page
 title: About Ross
 socialImage: /media/image-2.jpg
 slug: introduction
-draft: true
+draft: false
 ---
 Hey there, I'm Ross Hudgins. I'm a software developer living in central Texas with my wife Colleen and dog Howie. I spend my free time playing soccer, [making music](https://www.facebook.com/LeavenworthBand/), cooking, reading, and enjoying craft beer and cocktails.
 
