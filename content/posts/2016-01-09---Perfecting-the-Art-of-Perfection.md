@@ -5,7 +5,7 @@ draft: false
 socialImage: /media/image-2.jpg
 title: First Post
 date: 2020-04-26T20:29:51.770Z
-description: Welcome
+description: Welcome - maybe I have some worthwhile things to say
 category: Welcome
 tags:
   - intro
