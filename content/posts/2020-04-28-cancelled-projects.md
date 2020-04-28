@@ -3,7 +3,7 @@ template: post
 title: Cancelled Projects
 slug: cancelled-projects
 draft: true
-date: 2020-04-28T23:06:33.105Z
+date: 2020-04-28T23:29:00.000Z
 description: >-
   It's really a bummer when a project gets cut unexpectedly. I wrote this to
   help encourage myself and navigate how to use some things I learned in future
