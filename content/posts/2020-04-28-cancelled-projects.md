@@ -15,6 +15,7 @@ tags:
   - cancelled
   - database
   - imposter-syndrome
+  - system-design
 ---
 There are a lot of ways to feel when a project you’ve worked on gets cancelled. I’m processing this right now because a project that I’d spent the last five or six months working on just got shut down. It was partially due to some coronavirus company cost cuts, but also some people higher up realized that another team was independently building another API that would be able to serve the same purpose. This team was further along than ours but nobody in our segment was aware until now, so we got cut.
 
