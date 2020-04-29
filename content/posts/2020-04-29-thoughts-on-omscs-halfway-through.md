@@ -2,7 +2,7 @@
 template: post
 title: Thoughts on OMSCS Halfway Through
 slug: omscs-halfway
-draft: true
+draft: false
 date: 2020-04-29T14:05:59.234Z
 description: I've been enrolled in Georgia Tech's OMSCS program for about a year
   and a half now and just finished my 4th and 5th courses out of the required
