@@ -11,7 +11,7 @@ Feel free to connect through any of my social links on the sidebar or leave me a
 	<div class="cont-flip"
 		<div class="back">
 			<a href="#" class="flip close"></a>
-				<form class="contact-form" method="POST" enctype="application/x-www-form-urlencoded" name="contact-form" netlify-honeypot="bot-field" data-netlify="true">
+				<form class="contact-form" method="POST" action="success" enctype="application/x-www-form-urlencoded" name="contact-form" netlify-honeypot="bot-field" data-netlify="true">
 					<input type="hidden" name="form-name" value="contact-form">
 					<input class="gutter" type="text" placeholder="Name" name="name">
 					<input type="text" placeholder="Email" name="email">
