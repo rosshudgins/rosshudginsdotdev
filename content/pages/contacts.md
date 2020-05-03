@@ -11,7 +11,7 @@ Feel free to connect through any of my social links on the sidebar or leave me a
 	<div class="cont-flip"
 		<div class="back">
 			<a href="#" class="flip close"></a>
-				<form class="contact-form" action="" name="contact-form">
+				<form class="contact-form" action="" name="contact-form" netlify>
 					<input class="gutter" type="text" placeholder="Name" name="name">
 					<input type="text" placeholder="Email" name="email">
 					<textarea name="" id="" placeholder="Leave a message" name="message"></textarea>
