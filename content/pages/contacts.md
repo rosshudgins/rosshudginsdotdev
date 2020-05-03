@@ -5,7 +5,7 @@ socialImage: /media/image-4.jpg
 slug: contacts
 draft: false
 ---
-Feel free to connect through any of my social links on the sidebar.
+Feel free to connect through any of my social links on the sidebar or leave me a message here.
 
 <div class="cont-contactBtn">
 	<div class="cont-flip"
@@ -13,7 +13,6 @@ Feel free to connect through any of my social links on the sidebar.
 			<a href="#" class="flip close"></a>
 				<form class="contact-form" action="">
 					<input class="gutter" type="text" placeholder="Name">
-					<input class="gutter" type="text" placeholder="Telephone">
 					<input type="text" placeholder="Email">
 					<textarea name="" id="" placeholder="Leave a message"></textarea>
 					<input type="submit" value="Send">
