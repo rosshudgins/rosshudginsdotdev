@@ -27,9 +27,11 @@ tuition reimbursement
 
 ### Software Testing and Analysis
 
+cool automated test stuff like fuzzing and OOP stuff, but not super applicable for my work
+
 Typescript
 
-### HCI
+### Human-Computer Interaction
 
 writing
 
