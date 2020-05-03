@@ -7,12 +7,16 @@ draft: false
 ---
 Feel free to connect through any of my social links on the sidebar.
 
-<form name="contact" netlify>
-
-<p><label>Name<input type="text" name="name" /></label></p>
-
-<p><label>Email<input type="email" name="email" /></label></p>
-
-<p><label>Message<textarea name="message"></textarea></label></p>
-
-<p><button type="submit">Send</button></p></form>
+<div class="cont-contactBtn">
+	<div class="cont-flip"
+		<div class="back">
+			<a href="#" class="flip close"></a>
+				<form class="contact-form" action="">
+					<input class="gutter" type="text" placeholder="Name">
+					<input class="gutter" type="text" placeholder="Telephone">
+					<input type="text" placeholder="Email">
+					<textarea name="" id="" placeholder="Leave a message"></textarea>
+					<input type="submit" value="Send">
+				</form>
+		</div>
+	</div>
