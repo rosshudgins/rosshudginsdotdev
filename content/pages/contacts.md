@@ -15,7 +15,7 @@ Feel free to connect through any of my social links on the sidebar or leave me a
 					<input class="gutter" type="text" placeholder="Name">
 					<input type="text" placeholder="Email">
 					<textarea name="" id="" placeholder="Leave a message"></textarea>
-					<input type="submit" value="Send">
+					<input id="submit" type="submit" value="Send">
 				</form>
 		</div>
 	</div>
