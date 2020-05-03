@@ -12,10 +12,10 @@ Feel free to connect through any of my social links on the sidebar or leave me a
 		<div class="back">
 			<a href="#" class="flip close"></a>
 				<form class="contact-form" action="">
-					<input class="gutter" type="text" placeholder="Name">
-					<input type="text" placeholder="Email">
-					<textarea name="" id="" placeholder="Leave a message"></textarea>
-					<input id="submit_btn" type="submit" value="Send">
+					<input class="gutter" type="text" placeholder="Name" name="name">
+					<input type="text" placeholder="Email" name="email">
+					<textarea name="" id="" placeholder="Leave a message" name="message"></textarea>
+					<input id="submit_btn" type="submit" value="Send" name="submit">
 				</form>
 		</div>
 	</div>
