@@ -14,7 +14,7 @@ Feel free to connect through any of my social links on the sidebar or leave me a
 				<form class="contact-form" method="POST" enctype="application/x-www-form-urlencoded" name="contact-form" data-netlify="true">
 					<input class="gutter" type="text" placeholder="Name" name="name">
 					<input type="text" placeholder="Email" name="email">
-					<textarea name="" id="" placeholder="Leave a message" name="message"></textarea>
+					<textarea name="message" placeholder="Leave a message"></textarea>
 					<button type="submit">Send</button>
 				</form>
 		</div>
