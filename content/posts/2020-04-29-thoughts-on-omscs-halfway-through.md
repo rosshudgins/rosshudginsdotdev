@@ -17,6 +17,8 @@ tags:
 ---
 ## Motivation
 
+I had a fascinating introduction to Big Data and some basics of Machine Learning (although the course was titled [Information Storage and Retrieval](http://courses.cse.tamu.edu/caverlee/csce470_2014/index.html)) in my undergrad at Texas A&M that really blew my mind at the time. There weren't really any more related opportunities at the time though, so this interest just stuck around in the back of my mind.
+
 data engineering role
 
 data is just really cool
