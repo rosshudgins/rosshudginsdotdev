@@ -6,7 +6,7 @@ module.exports = {
   title: 'Blog by Ross Hudgins',
   subtitle: '',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: process.env.GATSBY_DISQUS_SHORTNAME || '',
   postsPerPage: 4,
   googleAnalyticsId: process.env.GTAG || '',
   useKatex: false,
