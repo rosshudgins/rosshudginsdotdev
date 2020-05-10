@@ -48,3 +48,9 @@ great intro to ML - code + reports really helped concepts sink in
 Honestly, I didn't watch any lectures for [this course](https://www.omscs.gatech.edu/cse-6242-data-visual-analytics). 
 
 assignments were a nice overview and intro to a lot of different tools - I really liked the tools for cleaning data, lot of power there
+
+### Conclusion
+
+For the most part, I've really enjoyed my time in OMSCS and definitely plan to complete my degree. I feel like I've gotten a really good breadth of knowledge so far, but I'm looking forward to honing in a bit and completing my Machine Learning specialization. I think I have some tough courses coming up, but I've seen some really good reviews and I should be fine if I keep managing my time well.
+
+Please get in touch if you have any questions or if you've studied in OMSCS or any other online education. I'd love to hear some other people's experiences.
