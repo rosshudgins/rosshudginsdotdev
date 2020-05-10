@@ -31,20 +31,20 @@ OMSCS enrolls a ton of students, so registering for the more interesting and spe
 
 [This course](https://www.omscs.gatech.edu/cs-6340-software-analysis) really was very interesting and a great academic and theoretical overview of software analysis tools and methods. Although it was interesting, most of the content honestly wasn't that applicable to my work. I was really glad to see a section of this course devoted to discussing Typescript. I thought it showed an effort to keep the course up to date and applicable to a greater breadth of students.
 
-### Cyber-Physical Systems
+### Intro to Cyber Physical Systems Security
 
-really didn't love this course - sloppy assignments and not really applicable
+I really didn't love [this course](https://www.omscs.gatech.edu/cs-8803-special-topics-cyber-physical-systems), but it got me a credit in a short summer semester. In short, it went over some different aspects of Industrial Control Systems (ICS) in terms of logic programming and network security. I guess it was interesting info to learn, but I really don't see myself ever putting it into practice. They may have improved things by now, but the assignments were not prepared well. For multiple assignments there were issues that required the TAs to push fixes during the assignment window. I appreciated the other students who noticed these issues and brought them to the attention of the TAs, but this really should not be the case.
 
 ### Human-Computer Interaction
 
-writing
+In my undergrad, I took a Human-Computer Interaction course, but [this one](https://www.omscs.gatech.edu/cs-6750-human-computer-interaction) was so much better. Even though there was literally no coding in the course, the assignments and lectures were incredibly effective. It really affected how I look at and evaluate interfaces. Even though I'm not a front end engineer or UI/UX designer, I still work on services that people use, and there are concepts to be applied. This course definitely kept me busy, with 8 pages of writing due every week, but they supported the lecture concepts perfectly. It's no wonder that [Dr. Joyner](https://www.cc.gatech.edu/people/david-joyner) got recently promoted to the Executive Director of the OMSCS program - he's done a fantastic job.
 
-### ML4T
+### Machine Learning for Trading
 
 great intro to ML - code + reports really helped concepts sink in
 
-### DVA
+### Data and Visual Analytics
 
-honestly didn't watch any lectures
+Honestly, I didn't watch any lectures for [this course](https://www.omscs.gatech.edu/cse-6242-data-visual-analytics). 
 
 assignments were a nice overview and intro to a lot of different tools - I really liked the tools for cleaning data, lot of power there
