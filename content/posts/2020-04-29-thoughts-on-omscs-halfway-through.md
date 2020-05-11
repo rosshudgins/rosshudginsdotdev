@@ -45,15 +45,17 @@ In my undergrad, I took a Human-Computer Interaction course, but [this one](http
 
 Reviews for [this course](https://www.omscs.gatech.edu/cs-7646-machine-learning-trading) were mostly positive and multiple people recommended it as an easier intro to Machine Learning concepts compared to the full [Machine Learning course](https://www.omscs.gatech.edu/cs-7641-machine-learning). From my experience, I really enjoyed the course and agree with these reviews.
 
-The finance and stock trading information in this course was very enlightening to me. Going into this course I had a really shallow understanding of how the stock market worked and figured It was great to learn actual technical details about the stock market explained clearly and simply.
+The finance and stock trading information in this course was very enlightening to me. Going into this course I had a really shallow understanding of how the stock market worked and figured It was great to learn actual technical details about the stock market explained clearly and simply. There's no way I'm ready to go invest all my money, but I do feel a deeper understanding about how people do make money in the market.
 
- great intro to ML - code + reports really helped concepts sink in
+This is another course that Dr. Joyner was involved in, so of course it was well-organized. Many of the assignments build on each other, so if you take this course, make sure you stay on top of the assignments. Most of the assignments consisted of both code and reports, which can be a lot of work, but it helps the concepts sink in so much better when you actually have to explain what you did. 
 
 ### Data and Visual Analytics
 
-Honestly, I didn't watch any lectures for [this course](https://www.omscs.gatech.edu/cse-6242-data-visual-analytics). 
+Honestly, I didn't watch any lectures for [this course](https://www.omscs.gatech.edu/cse-6242-data-visual-analytics). Seeing how quickly the course filled up and how long the waitlist tends to get, I was really surprised at the lack of quality. Assignments didn't have issues and the TAs graded everything in good time, but the whole course just felt lackluster and in terms of preparing us for real-world projects, this course was nowhere near enough.
 
-assignments were a nice overview and intro to a lot of different tools - I really liked the tools for cleaning data, lot of power there
+The semester that I took this course coincided with the coronavirus pandemic, so the instructors generously awarded us extra points on some assignments in case any of us were affected. I ended up with an 89 average that somehow got rounded up to an A.
+
+Now the good - although some assignments were glorified tutorials, they really were a nice overview and intro to a lot of different tools that I was not familiar with at all. I've heard about Hadoop for years but never touched it, so it was nice to have a guided introduction. It was a very small tutorial, but the [codeless machine learning tools from Microsoft's Azure](https://azure.microsoft.com/en-us/services/machine-learning/#features) were very cool to see. I'm still very early into data analysis and machine learning, but I do know how important working with clean data is, so I really enjoyed learning about tools for cleaning data like [OpenRefine](https://openrefine.org/).
 
 ### Conclusion
 
