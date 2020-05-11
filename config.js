@@ -29,7 +29,7 @@ module.exports = {
     photo: '/sit.jpg',
     bio: 'backend software developer from texas',
     contacts: {
-      email: '',
+      email: 'rosshudginsdev@gmail.com',
       facebook: 'ross.hudgins/',
       telegram: '',
       twitter: 'rosshudgins',
