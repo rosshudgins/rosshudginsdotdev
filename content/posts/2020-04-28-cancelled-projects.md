@@ -1,23 +1,22 @@
 ---
 template: post
-title: Cancelled Projects
-slug: cancelled-projects
+title: How to Handle Cancelled Software Projects
+slug: cancelled-software-projects
 draft: false
 date: 2020-04-28T23:29:00.000Z
-description: >-
-  It's really a bummer when a project gets cut unexpectedly. I wrote this to
-  help encourage myself and navigate how to use some things I learned in future
-  projects.
+description: It's really a bummer when a project gets cut unexpectedly. I wrote
+  this to help encourage myself and navigate how to use some things I learned in
+  future projects.
 category: Software Development
 tags:
-  - development
+  - software development
   - coronavirus
-  - cancelled
+  - cancelled software projects
   - database
-  - imposter-syndrome
-  - system-design
+  - imposter syndrome
+  - system design
 ---
-There are a lot of ways to feel when a project you’ve worked on gets cancelled. I’m processing this right now because a project that I’d spent the last five or six months working on just got shut down. It was partially due to some coronavirus company cost cuts, but also some people higher up realized that another team was independently building another API that would be able to serve the same purpose. This team was further along than ours but nobody in our segment was aware until now, so we got cut.
+There are a lot of ways to feel when a software project you’ve worked on gets cancelled. I’m processing this right now because a project that I’d spent the last five or six months working on just got shut down. It was partially due to some coronavirus company cost cuts, but also some people higher up realized that another team was independently building another API that would be able to serve the same purpose. This team was further along than ours but nobody in our segment was aware until now, so we got cut.
 
 I’ve had another project that has still not been deployed to production nearly two years after my team completed it. One project of mine early on at Viasat was actually a new version of a project whose first version failed to make any sales. And the version I built also failed to make any sales… So they decided to skip version 3 and call the next one version 4, which actually did have some success (but I was not involved). I’ll refrain from details about the projects as I’m not sure what the rules are for sharing internal project stuff - I’d rather just play it safe and it doesn’t really matter for the purposes of this.
 
