@@ -1,7 +1,7 @@
 ---
 template: post
-title: Thoughts on OMSCS Halfway Through
-slug: omscs-halfway
+title: "OMSCS Course Reviews: Halfway Through"
+slug: omscs-course-reviews-halfway-through
 draft: false
 date: 2020-04-29T14:05:59.234Z
 description: I've been enrolled in Georgia Tech's OMSCS program for about a year
@@ -15,15 +15,17 @@ tags:
   - OMSCS
   - Georgia Tech
 ---
+In my time enrolled in Georgia Tech's OMSCS program, I've gotten a lot of value from others' OMSCS course reviews, so I want to give back and share from my own experience.
+
 ## Motivation
 
 I had a fascinating introduction to Big Data and some basics of Machine Learning (although the course was titled [Information Storage and Retrieval](http://courses.cse.tamu.edu/caverlee/csce470_2014/index.html)) in my undergrad at Texas A&M that really blew my mind at the time. There weren't really any more related opportunities at the time though, so this interest just stuck around in the back of my mind.
 
 I had never thought I'd even consider going back to school for a master's degree, but my brother in law encouraged me to look into some machine learning education. Of course there are plenty of free and cheap online courses and tutorials, but personally I benefit more from more structured learning and like the potential of earning a degree. There are a handful of options (more now than when I started looking) but some are much more expensive than others. Georgia Tech's [OMSCS](https://www.omscs.gatech.edu/specialization-machine-learning) with a specialization in Machine Learning seemed to check all the boxes for me. Also, since the company I work for offer tuition reimbursement, it seemed like a no-brainer for me to apply.
 
-Obviously I'm here writing this, so spoiler alert, I was accepted and enrolled starting in January 2019. At this point I've completed 5 of the 10 required courses
+Obviously I'm here writing this, so spoiler alert, I was accepted and enrolled starting in January 2019. At this point I've completed 5 of the 10 required courses and I'd like to share some course reviews from my experience.
 
-## Course
+## Courses
 
 ### Software Analysis and Test
 
@@ -41,7 +43,11 @@ In my undergrad, I took a Human-Computer Interaction course, but [this one](http
 
 ### Machine Learning for Trading
 
-great intro to ML - code + reports really helped concepts sink in
+Reviews for [this course](https://www.omscs.gatech.edu/cs-7646-machine-learning-trading) were mostly positive and multiple people recommended it as an easier intro to Machine Learning concepts compared to the full [Machine Learning course](https://www.omscs.gatech.edu/cs-7641-machine-learning). From my experience, I really enjoyed the course and agree with these reviews.
+
+The finance and stock trading information in this course was very enlightening to me. Going into this course I had a really shallow understanding of how the stock market worked and figured It was great to learn actual technical details about the stock market explained clearly and simply.
+
+ great intro to ML - code + reports really helped concepts sink in
 
 ### Data and Visual Analytics
 
