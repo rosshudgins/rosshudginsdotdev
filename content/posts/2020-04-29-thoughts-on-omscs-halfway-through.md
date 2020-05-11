@@ -10,10 +10,9 @@ description: I've been enrolled in Georgia Tech's OMSCS program for about a year
   how it's been useful to me.
 category: Grad school
 tags:
-  - school
-  - master's
   - OMSCS
-  - Georgia Tech
+  - machine learning
+  - course reviews
 ---
 In my time enrolled in Georgia Tech's OMSCS program, I've gotten a lot of value from others' OMSCS course reviews, so I want to give back and share from my own experience.
 
@@ -51,7 +50,7 @@ This is another course that Dr. Joyner was involved in, so of course it was well
 
 ### Data and Visual Analytics
 
-Honestly, I didn't watch any lectures for [this course](https://www.omscs.gatech.edu/cse-6242-data-visual-analytics). Seeing how quickly the course filled up and how long the waitlist tends to get, I was really surprised at the lack of quality. Assignments didn't have issues and the TAs graded everything in good time, but the whole course just felt lackluster and in terms of preparing us for real-world projects, this course was nowhere near enough.
+Honestly, I didn't watch any lectures for [this course](https://www.omscs.gatech.edu/cse-6242-data-visual-analytics). Seeing how quickly the course filled up and how long the waitlist tends to get, I was really surprised at the lack of quality. Assignments didn't have issues and the TAs graded everything in good time, but the whole course just felt lackluster and in terms of preparing us for real-world projects, this course was nowhere near enough. There were no exams - only assignments and a group project.
 
 The semester that I took this course coincided with the coronavirus pandemic, so the instructors generously awarded us extra points on some assignments in case any of us were affected. I ended up with an 89 average that somehow got rounded up to an A.
 
