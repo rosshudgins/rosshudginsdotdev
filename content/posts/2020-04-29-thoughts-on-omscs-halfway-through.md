@@ -22,8 +22,7 @@ I had a fascinating introduction to Big Data and some basics of Machine Learning
 
 I had never thought I'd even consider going back to school for a master's degree, but my brother in law encouraged me to look into some machine learning education. Of course there are plenty of free and cheap online courses and tutorials, but personally I benefit more from more structured learning and like the potential of earning a degree. There are a handful of options (more now than when I started looking) but some are much more expensive than others. Georgia Tech's [OMSCS](https://www.omscs.gatech.edu/specialization-machine-learning) with a specialization in Machine Learning seemed to check all the boxes for me. Also, since the company I work for offer tuition reimbursement, it seemed like a no-brainer for me to apply.
 
-TODO\
-machine learning from scratch vs data engineer (applied machine learning)
+As far as career applications, my aspiration is definitely not to become a full-on data scientist. I love building software too much and although data scientists do write some code, it really isn't the same as building software that's used by people. For that sort of role, I think it's very important to understand how machine learning tools and techniques work and why they perform how they perform. There's no need to be able to build these tools from scratch, but understanding how they were built gives a deeper understanding compared to just a black-box input/output level of knowledge.
 
 Obviously I'm here writing this, so spoiler alert, I was accepted and enrolled starting in January 2019. At this point I've completed 5 of the 10 required courses and I'd like to share some course reviews from my experience.
 
