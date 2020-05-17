@@ -5,7 +5,7 @@ socialImage: /media/image-4.jpg
 slug: contacts
 draft: false
 ---
-Feel free to connect through any of my social links on the sidebar or leave me a message here.
+Feel free to connect through any of my social links on the sidebar, leave me a message here, or send me an email at <a href="mailto:rosshudginsdev@gmail.com">rosshudginsdev@gmail.com</a>.
 
 <div class="cont-contactBtn">
 	<div class="cont-flip"
