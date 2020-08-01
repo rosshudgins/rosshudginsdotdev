@@ -2,7 +2,7 @@
 template: post
 title: Book Review - Almost Human
 slug: book-review-almost-human
-draft: true
+draft: false
 date: 2020-07-31T16:46:53.516Z
 description: "Short review of Almost Human: The Astonishing Tale of Homo Naledi
   and the Discovery That Changed Our Human Story by Lee Berger"
