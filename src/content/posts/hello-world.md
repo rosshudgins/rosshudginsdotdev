@@ -7,4 +7,4 @@ tags:
 summary: First post on the new site - what an upgrade!
 ---
 
-Placeholder — more posts coming soon.
+I just spun up this new site since my previous one was very technically outdated. It was using Gatsby and Netlify CMS. With this iteration we're using Astro, a new template, and Tina CMS.
