@@ -4,7 +4,7 @@
  * Theme Color Customization
  * -------------------------
  * All colors are based on OKLch color space with a consistent hue value.
- * To change the entire color palette, find-and-replace the hue number:
+ * To change the entire color palette, update the --hue variable below.
  *
  *   Current hue: 165 (sage green)
  *
@@ -20,20 +20,22 @@
 
 :root {
   /* --- Light Mode: Sage Mist --- */
-  --background: oklch(0.98 0.008 165);
-  --foreground: oklch(0.25 0.02 165);
+  --hue: 250;
 
-  --card: oklch(0.99 0.005 165);
-  --card-foreground: oklch(0.25 0.02 165);
+  --background: oklch(0.98 0.008 var(--hue));
+  --foreground: oklch(0.25 0.02 var(--hue));
 
-  --primary: oklch(0.5 0.12 165);
-  --primary-foreground: oklch(0.98 0.01 165);
+  --card: oklch(0.99 0.005 var(--hue));
+  --card-foreground: oklch(0.25 0.02 var(--hue));
 
-  --muted: oklch(0.94 0.01 165);
-  --muted-foreground: oklch(0.35 0.02 165);
+  --primary: oklch(0.5 0.12 var(--hue));
+  --primary-foreground: oklch(0.98 0.01 var(--hue));
 
-  --border: oklch(0.92 0.01 165);
-  --shadow-main: 0 10px 40px -10px oklch(0.3 0.05 165 / 0.05);
+  --muted: oklch(0.94 0.01 var(--hue));
+  --muted-foreground: oklch(0.35 0.02 var(--hue));
+
+  --border: oklch(0.92 0.01 var(--hue));
+  --shadow-main: 0 10px 40px -10px oklch(0.3 0.05 var(--hue) / 0.05);
 
   --callout-info: oklch(0.65 0.12 250);
   --callout-warning: oklch(0.7 0.15 85);
@@ -43,19 +45,21 @@
 
 .dark {
   /* --- Dark Mode: Deep Moss --- */
-  --background: oklch(0.14 0.02 165);
-  --foreground: oklch(0.92 0.005 165);
+  --hue: 250;
 
-  --card: oklch(0.18 0.02 165);
-  --card-foreground: oklch(0.88 0.01 165);
+  --background: oklch(0.14 0.02 var(--hue));
+  --foreground: oklch(0.92 0.005 var(--hue));
+
+  --card: oklch(0.18 0.02 var(--hue));
+  --card-foreground: oklch(0.88 0.01 var(--hue));
 
   --primary: oklch(0.75 0.15 160);
-  --primary-foreground: oklch(0.1 0.02 165);
+  --primary-foreground: oklch(0.1 0.02 var(--hue));
 
   --muted: oklch(0.28 0.02 160);
-  --muted-foreground: oklch(0.75 0.015 165);
+  --muted-foreground: oklch(0.75 0.015 var(--hue));
 
-  --border: oklch(0.26 0.02 165);
+  --border: oklch(0.26 0.02 var(--hue));
   --shadow-main: 0 30px 60px -15px oklch(0 0 0 / 0.5);
 
   --callout-info: oklch(0.75 0.12 250);
