@@ -64,7 +64,9 @@ export interface SiteLabels {
   viewAll: string;
   categories: string;
   tags: string;
-  tools: string;  search: string;
+  tools: string;
+  search: string;
+  toolsTitle: string;
   noResults: string;
   toc: string;
   notFoundTitle: string;
