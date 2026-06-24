@@ -12,6 +12,12 @@
     "icon": "mdi:palette"
   },
   {
+    "name": "General",
+    "slug": "general",
+    "description": "General articles and miscellaneous posts",
+    "icon": "mdi:folder"
+  },
+  {
     "name": "Life",
     "slug": "life",
     "description": "Daily life and personal reflections",

@@ -71,8 +71,12 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   <link rel="sitemap" href="/sitemap-index.xml" />
 
   <!-- pagefind -->
-  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-  <script src="/pagefind/pagefind-ui.js" is:inline></script>
+  {import.meta.env.PROD ? (
+    <>
+      <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+      <script src="/pagefind/pagefind-ui.js" is:inline></script>
+    </>
+  ) : null}
 
   <!-- font  -->
   <Font cssVariable="--font-display" preload />

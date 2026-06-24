@@ -1,26 +1,29 @@
 ---
-title: About
-description: About this site and its author
+title: "About Me"
+createdAt: 2026-06-24
+category: general
+tags: [meta]
+summary: "About Ross Hudgins"
 ---
 
 ## About Me
 
-Hello! I'm a developer who loves building things for the web.
+Hey, I'm Ross Hudgins — a backend software developer based in Longmont, Colorado.
 
-I created this site using [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com), and I'm sharing it as a theme called **Breeze** so others can use it too.
+I've been building backend systems since 2016. <!-- TODO: update with current role -->
 
-## Tech Stack
+Outside of work I play soccer, [make music](https://www.facebook.com/LeavenworthBand/), cook, read, and enjoy craft beer and cocktails. I live with my wife Colleen and our dog Howie.
 
-- Astro + Tailwind CSS
-- TypeScript
-- Markdown / MDX
+I went through Georgia Tech's [OMSCS](https://www.omscs.gatech.edu/) program with a specialization in Machine Learning. <!-- TODO: note whether you finished -->
+
+Any views or opinions here are solely my own.
 
 ## What I Write About
 
-- Web development tips and tutorials
-- Tools and workflows I find useful
-- Thoughts on technology and design
+- Software engineering and backend systems
+- Book reviews
+- Whatever else I'm thinking about
 
 ## Contact
 
-Feel free to reach out through the social links below.
+Find me through the social links in the nav, or reach out directly via email.

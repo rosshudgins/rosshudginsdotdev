@@ -3,33 +3,40 @@
   "type": "module",
   "version": "1.1.0",
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build && npx pagefind --site dist",
+    "dev": "tinacms dev -c \"astro dev\"",
+    "build": "tinacms build && astro build && npx pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
     "prepare": "husky"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.3",
+    "@astrojs/node": "^10.1.4",
     "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.2",
     "@tailwindcss/vite": "^4.1.18",
+    "@tinacms/astro": "^0.5.0",
     "artalk": "^2.9.1",
     "astro": "^6.1.1",
     "astro-expressive-code": "^0.41.5",
     "astro-icon": "^1.1.5",
     "dayjs": "^1.11.19",
-    "tailwindcss": "^4.1.18"
+    "tailwindcss": "^4.1.18",
+    "tinacms": "^3.9.3"
   },
   "devDependencies": {
     "@iconify-json/mdi": "^1.2.3",
     "@tailwindcss/typography": "^0.5.19",
+    "@tinacms/cli": "^2.5.1",
+    "@types/node": "^26.0.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.2.7",
     "pagefind": "^1.4.0",
     "prettier": "3.7.4",
     "prettier-plugin-astro": "0.14.1",
-    "prettier-plugin-tailwindcss": "0.7.2"
+    "prettier-plugin-tailwindcss": "0.7.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"

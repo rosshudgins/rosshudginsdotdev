@@ -32,7 +32,7 @@ const currentPath = Astro.url.pathname;
                   : "text-muted-foreground group-hover:text-primary",
               ]}
             >
-              {item.name}
+              {item.label}
             </span>
             <span
               class:list={[
@@ -40,7 +40,7 @@ const currentPath = Astro.url.pathname;
                 isActive ? "text-primary/60" : "text-muted-foreground/50",
               ]}
             >
-              {item.subtitle}
+              {item.subLabel}
             </span>
           </div>
 
