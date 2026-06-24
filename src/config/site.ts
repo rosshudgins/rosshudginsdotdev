@@ -52,10 +52,8 @@ const siteConfig: SiteConfig = {
   comments: {
     enabled: false,
   },
-
   tools: [
     { name: 'TypeScript', description: 'Typed JavaScript at scale' },
-    { name: 'Go', description: 'Fast and reliable backend systems' },
     { name: 'Python', description: 'Data, ML, and scripting' },
     { name: 'Astro', description: 'This site' },
     { name: 'Postgres', description: 'Primary database' },
@@ -67,9 +65,7 @@ const siteConfig: SiteConfig = {
     viewAll: 'View all',
     categories: 'categories',
     tags: 'tags',
-    tools: 'tools',
-    friends: 'friends',
-    search: 'Search',
+    tools: 'tools',    search: 'Search',
     noResults: 'No results found.',
     toc: 'On this page',
     notFoundTitle: '',
