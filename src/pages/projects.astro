@@ -59,40 +59,18 @@ const projects = await getCollection("projects");
               ))}
             </div>
             {project.data.links && (
-              <div class="flex gap-2">
-                {project.data.links.homepage && (
+              <div class="grid gap-2 sm:grid-cols-2">
+                {project.data.links.map((link) => (
                   <a
-                    href={project.data.links.homepage}
+                    href={link.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    class="flex items-center gap-1 rounded-lg border border-border/50 bg-muted/30 px-3 py-2 text-[11px] font-medium text-foreground/70 hover:border-primary/40 hover:text-primary"
+                    class="flex items-center justify-between rounded-2xl border border-border/50 bg-muted/30 p-4 text-sm font-medium text-foreground/80 transition-all duration-300 hover:border-primary/40 hover:bg-muted/40 hover:text-primary"
                   >
-                    <Icon name="mdi:web" class="h-3 w-3" />
-                    Website
+                    <span>{link.label}</span>
+                    <Icon name="mdi:open-in-new" class="h-4 w-4" />
                   </a>
-                )}
-                {project.data.links.github && (
-                  <a
-                    href={project.data.links.github}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="flex items-center gap-1 rounded-lg border border-border/50 bg-muted/30 px-3 py-2 text-[11px] font-medium text-foreground/70 hover:border-primary/40 hover:text-primary"
-                  >
-                    <Icon name="mdi:github" class="h-3 w-3" />
-                    Source
-                  </a>
-                )}
-                {project.data.links.demo && (
-                  <a
-                    href={project.data.links.demo}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="flex items-center gap-1 rounded-lg border border-border/50 bg-muted/30 px-3 py-2 text-[11px] font-medium text-foreground/70 hover:border-primary/40 hover:text-primary"
-                  >
-                    <Icon name="mdi:open-in-new" class="h-3 w-3" />
-                    Demo
-                  </a>
-                )}
+                ))}
               </div>
             )}
           </div>

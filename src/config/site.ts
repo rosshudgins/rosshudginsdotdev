@@ -30,8 +30,8 @@ const siteConfig: SiteConfig = {
   ],
 
   hero: {
-    greeting: "👋 Hey, I'm Ross",
-    description: 'Backend software developer based in Longmont, CO. I write about software, books, music, and craft beer.',
+    greeting: "I'm Ross",
+    description: 'Backend software developer based in Longmont, CO. I write about software, books, and music.',
     infos: [
       { label: 'Status', value: 'Building things' },       // ← update as you like
       { label: 'Location', value: 'Longmont, Colorado' },

@@ -6,7 +6,10 @@ tech:
   - TypeScript
   - Tailwind CSS
   - Tina CMS
-link: 'https://rosshudgins.dev'
+links:
+  - label: GitHub
+    url: https://github.com/linftyz/astro-theme-breeze
+  - label: Demo
+    url: https://astro-theme-breeze.pages.dev
 status: completed
 ---
-

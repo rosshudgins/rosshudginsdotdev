@@ -38,11 +38,14 @@ const projects = defineCollection({
     title: z.string(),
     description: z.string(),
     tech: z.array(z.string()),
-    links: z.object({
-      homepage: z.string().url().optional(),
-      github: z.string().url().optional(),
-      demo: z.string().url().optional(),
-    }).optional(),
+    links: z
+      .array(
+        z.object({
+          label: z.string(),
+          url: z.string().url(),
+        })
+      )
+      .optional(),
     status: z
       .enum(["planning", "in-progress", "completed", "archived"])
       .default("completed"),
