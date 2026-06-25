@@ -23,10 +23,9 @@ const siteConfig: SiteConfig = {
   social: [
     { name: 'GitHub', href: 'https://github.com/rosshudgins', icon: 'mdi:github' },
     { name: 'LinkedIn', href: 'https://www.linkedin.com/in/michaelrosshudgins/', icon: 'mdi:linkedin' },
-    { name: 'Twitter', href: 'https://www.twitter.com/rosshudgins', icon: 'mdi:twitter' },
     { name: 'Instagram', href: 'https://www.instagram.com/rosshudgins', icon: 'mdi:instagram' },
     { name: 'Facebook', href: 'https://www.facebook.com/ross.hudgins/', icon: 'mdi:facebook' },
-    { name: 'Email', href: 'mailto:ross@rosshudgins.dev', icon: 'mdi:email' }, // ← update with real email
+    { name: 'Email', href: 'mailto:michael.ross.hudgins@gmail.com', icon: 'mdi:email' },
   ],
 
   hero: {
