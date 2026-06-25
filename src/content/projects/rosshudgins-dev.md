@@ -8,8 +8,9 @@ tech:
   - Tina CMS
 links:
   - label: GitHub
-    url: https://github.com/linftyz/astro-theme-breeze
+    url: 'https://github.com/rosshudgins/rosshudginsdotdev'
   - label: Demo
-    url: https://astro-theme-breeze.pages.dev
+    url: 'https://astro-theme-breeze.pages.dev'
 status: completed
 ---
+
