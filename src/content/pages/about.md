@@ -1,28 +1,27 @@
 ---
-title: "About Me"
-createdAt: 2026-06-24
+title: About Me
+createdAt: 2026-06-24T00:00:00.000Z
 category: general
-tags: [meta]
-summary: "About Ross Hudgins"
+tags:
+  - meta
+summary: About Ross Hudgins
 ---
 
 ## About Me
 
-Hey, I'm Ross Hudgins — a backend software developer based in Longmont, Colorado.
+Hey, I'm Ross Hudgins — a software developer based in Longmont, Colorado.
 
-I've been building backend systems since 2016. <!-- TODO: update with current role -->
+Historically I have done some full stack development, but I'm much more at home building scalable backend systems.
 
-Outside of work I play soccer, [make music](https://www.facebook.com/LeavenworthBand/), cook, read, and enjoy craft beer and cocktails. I live with my wife Colleen and our dog Howie.
-
-I went through Georgia Tech's [OMSCS](https://www.omscs.gatech.edu/) program with a specialization in Machine Learning. <!-- TODO: note whether you finished -->
+Outside of work I play soccer, spend time with my family, [make music](https://www.facebook.com/LeavenworthBand/), hike, cook, read, and enjoy craft beer and cocktails. I live with my wife Colleen, our three boys, and our dog Howie.
 
 Any views or opinions here are solely my own.
 
 ## What I Write About
 
-- Software engineering and backend systems
-- Book reviews
-- Whatever else I'm thinking about
+* Software engineering
+* Book reviews
+* Whatever else I'm thinking about
 
 ## Contact
 
