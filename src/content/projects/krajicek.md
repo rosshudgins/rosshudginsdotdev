@@ -6,7 +6,8 @@ tech:
   - TypeScript
   - Netlify
 links:
-  - {}
+  - label: JohnKrajicek.com
+    url: 'https://johnkrajicek.com/'
 status: completed
 ---
 
