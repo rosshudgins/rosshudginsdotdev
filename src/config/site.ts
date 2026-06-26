@@ -5,11 +5,11 @@ const siteConfig: SiteConfig = {
     title: 'Ross Hudgins',
     description: 'Backend software developer. Writing about software, books, and whatever else.',
     author: 'Ross Hudgins',
-    logo: '/logo.svg',
+    logo: '/ross.jpg',
     language: 'en',
     lang: 'en',
     url: 'https://rosshudgins.dev',
-    ogImage: '/og-image.png',
+    ogImage: '/ross.jpg',
     twitterCreator: '@rosshudgins',
   },
 
@@ -17,6 +17,7 @@ const siteConfig: SiteConfig = {
     { label: 'Home', subLabel: 'Index', href: '/' },
     { label: 'Writing', subLabel: 'Blog', href: '/posts' },
     { label: 'Projects', subLabel: 'Works', href: '/projects' },
+    { label: 'Services', subLabel: 'Offerings', href: '/services' },
     { label: 'About', subLabel: 'Me', href: '/about' },
   ],
 

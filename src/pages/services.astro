@@ -1,0 +1,20 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import { getEntry, render } from "astro:content";
+
+const services = await getEntry("pages", "services");
+
+if (!services) {
+  throw new Error("Services page content not found.");
+}
+
+const { Content } = await render(services);
+---
+
+<Layout title="Services" description="Services offered by Ross Hudgins">
+  <div class="animate-in fade-in mx-auto max-w-2xl p-8 duration-700 md:p-16">
+    <div class="prose dark:prose-invert">
+      <Content />
+    </div>
+  </div>
+</Layout>
