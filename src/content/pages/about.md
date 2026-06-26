@@ -11,7 +11,7 @@ summary: About Ross Hudgins
 
 Hey, I'm Ross Hudgins — a software developer based in Longmont, Colorado.
 
-Historically I have done some full stack development, but I'm much more at home building scalable backend systems.
+I work full time as a backend software engineer for EVgo. I'm lucky to live in an area that places so much importance on supporting the community and local businesses, and I'd love to spend some of my time networking and supporting locality by helping local businesses improve their online presence.
 
 Outside of work I play soccer, spend time with my family, [make music](https://www.facebook.com/LeavenworthBand/), hike, cook, read, and enjoy craft beer and cocktails. I live with my wife Colleen, our three boys, and our dog Howie.
 
