@@ -1,4 +1,29 @@
+import { readFileSync } from 'node:fs'
+import { resolve } from 'node:path'
 import { defineConfig } from 'tinacms'
+
+const workspaceRoot = process.cwd()
+const categoriesPath = resolve(workspaceRoot, 'src/content/miscs/categories.json')
+const tagsPath = resolve(workspaceRoot, 'src/content/miscs/tags.json')
+
+const categories = JSON.parse(readFileSync(categoriesPath, 'utf8')) as Array<{
+  name: string
+  slug: string
+}>
+const tags = JSON.parse(readFileSync(tagsPath, 'utf8')) as Array<{
+  name: string
+  slug: string
+}>
+
+const categoryOptions = categories.map(({ name, slug }) => ({
+  label: name,
+  value: slug,
+}))
+
+const tagOptions = tags.map(({ name, slug }) => ({
+  label: name,
+  value: slug,
+}))
 
 export default defineConfig({
   branch: process.env.HEAD || 'main',
@@ -33,12 +58,16 @@ export default defineConfig({
             type: 'string',
             name: 'category',
             label: 'Category',
+            ui: { component: 'select' },
+            options: categoryOptions,
           },
           {
             type: 'string',
             name: 'tags',
             label: 'Tags',
             list: true,
+            ui: { component: 'select' },
+            options: tagOptions,
           },
           {
             type: 'string',
@@ -139,12 +168,16 @@ export default defineConfig({
             type: 'string',
             name: 'category',
             label: 'Category',
+            ui: { component: 'select' },
+            options: categoryOptions,
           },
           {
             type: 'string',
             name: 'tags',
             label: 'Tags',
             list: true,
+            ui: { component: 'select' },
+            options: tagOptions,
           },
           {
             type: 'string',
