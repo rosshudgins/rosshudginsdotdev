@@ -5,5 +5,13 @@
   { "name": "TypeScript", "slug": "typescript" },
   { "name": "CSS", "slug": "css" },
   { "name": "Markdown", "slug": "markdown" },
-  { "name": "Tutorial", "slug": "tutorial" }
+  { "name": "Tutorial", "slug": "tutorial" },
+  { "name": "Web Development", "slug": "web-development" },
+  { "name": "UI/UX", "slug": "ui-ux" },
+  { "name": "Design", "slug": "design" },
+  { "name": "Life", "slug": "life" },
+  { "name": "General", "slug": "general" },
+  { "name": "SEO", "slug": "seo" },
+  { "name": "Blog", "slug": "blog" },
+  { "name": "Local", "slug": "local" }
 ]
