@@ -25,6 +25,9 @@ const { post } = Astro.props;
 const { Content, headings } = await render(post);
 const category = await getEntry(post.data.category);
 const tags = (await getEntries(post.data.tags)).filter((value) => value);
+const wordCount = post.body
+  ? post.body.trim().split(/\s+/).filter(Boolean).length
+  : 0;
 ---
 
 <Layout title={post.data.title} description={post.data.summary}>
@@ -76,7 +79,7 @@ const tags = (await getEntries(post.data.tags)).filter((value) => value);
           class="flex items-center gap-4 rounded-full border border-border/20 bg-muted/20 px-3 py-1 text-muted-foreground/60"
         >
           <div class="flex items-center gap-1.5">
-            <span class="post-words-count">{post.body?.length} </span>
+            <span class="post-words-count">{wordCount}</span>
             <span class="text-[10px] uppercase opacity-90">Words</span>
           </div>
 
