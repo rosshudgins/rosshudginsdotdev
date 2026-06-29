@@ -13,5 +13,6 @@
   { "name": "General", "slug": "general" },
   { "name": "SEO", "slug": "seo" },
   { "name": "Blog", "slug": "blog" },
-  { "name": "Local", "slug": "local" }
+  { "name": "Local", "slug": "local" },
+  { "name": "Uncategorized", "slug": "uncategorized" }
 ]
