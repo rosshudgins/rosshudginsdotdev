@@ -61,8 +61,7 @@ export default defineConfig({
             name: 'tags',
             label: 'Tags',
             list: true,
-            ui: { component: 'select' },
-            options: tagOptions,
+            ui: { component: 'tags' },
           },
           {
             type: 'string',
@@ -171,8 +170,7 @@ export default defineConfig({
             name: 'tags',
             label: 'Tags',
             list: true,
-            ui: { component: 'select' },
-            options: tagOptions,
+            ui: { component: 'tags' },
           },
           {
             type: 'string',
