@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
-    "build": "tinacms build && astro build && npx pagefind --site dist",
+    "build": "tinacms build --skip-cloud-checks && astro build && npx pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
     "prepare": "husky"

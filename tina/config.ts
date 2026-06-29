@@ -1,19 +1,14 @@
-import { readFileSync } from 'node:fs'
-import { resolve } from 'node:path'
 import { defineConfig } from 'tinacms'
+import categoriesData from '../src/content/miscs/categories.json'
+import tagsData from '../src/content/miscs/tags.json'
 
-const workspaceRoot = process.cwd()
-const categoriesPath = resolve(workspaceRoot, 'src/content/miscs/categories.json')
-const tagsPath = resolve(workspaceRoot, 'src/content/miscs/tags.json')
-
-const categories = JSON.parse(readFileSync(categoriesPath, 'utf8')) as Array<{
+type TaxonomyItem = {
   name: string
   slug: string
-}>
-const tags = JSON.parse(readFileSync(tagsPath, 'utf8')) as Array<{
-  name: string
-  slug: string
-}>
+}
+
+const categories = categoriesData as TaxonomyItem[]
+const tags = tagsData as TaxonomyItem[]
 
 const categoryOptions = categories.map(({ name, slug }) => ({
   label: name,

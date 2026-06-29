@@ -6,6 +6,7 @@
     "baseUrl": ".",
     "strictNullChecks": true,
     "allowJs": true,
+    "resolveJsonModule": true,
     "paths": {
       "@/*": ["./src/*"]
     }
