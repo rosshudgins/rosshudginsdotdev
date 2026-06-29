@@ -1,10 +1,9 @@
 ---
 title: Improving My Own SEO
 createdAt: 2026-06-29T16:57:39.815Z
-category: SEO
+category: Technology
 tags:
   - SEO
-  - blog
 summary: Documenting my personal site SEO improvement
 ---
 
