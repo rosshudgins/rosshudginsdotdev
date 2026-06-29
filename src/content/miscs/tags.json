@@ -11,6 +11,7 @@
   { "name": "Design", "slug": "design" },
   { "name": "Life", "slug": "life" },
   { "name": "General", "slug": "general" },
+  { "name": "Meta", "slug": "meta" },
   { "name": "SEO", "slug": "seo" },
   { "name": "Blog", "slug": "blog" },
   { "name": "Local", "slug": "local" },
