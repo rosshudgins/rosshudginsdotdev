@@ -6,5 +6,7 @@ tags:
   - blog
   - web-development
 draft: true
+summary: 'it''s good culture to try and evaluate new things, but can it get out of control? '
 ---
 
+how many process changes are too many - it's good culture to try and evaluate new things, but can it get out of control? 
