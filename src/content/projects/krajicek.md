@@ -1,5 +1,5 @@
 ---
-title: John Krajicek
+title: JohnKrajicek.com
 description: Personal website for artist John Krajicek
 tech:
   - Gatsby
