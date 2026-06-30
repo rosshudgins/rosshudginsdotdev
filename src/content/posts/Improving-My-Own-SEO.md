@@ -4,6 +4,8 @@ createdAt: 2026-06-29T16:57:39.815Z
 category: technology
 tags:
   - seo
+  - web-development
+draft: false
 summary: Documenting my personal site SEO improvement
 ---
 
