@@ -19,3 +19,4 @@ I want to start here by documenting some actions that I'd like to take that shou
 Status Log
 
 * 6/29/2026 - personal LinkedIn is 8th on the front page, this site is 3rd on the second page of results
+* 7/20/2026 - personal LinkedIn is 6th on the front page, this site is 8th on the front page
