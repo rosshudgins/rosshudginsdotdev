@@ -10,4 +10,4 @@ draft: true
 summary: 'My team at work is my favorite, it''s so valuable'
 ---
 
-especially remote, a great team 
+Software engineering is such a collaborative work space, a good team can really make or break a job experience. 
